@@ -1,29 +1,29 @@
-public static void main(String[]args){
+public static void MyCodingSkills(String[]args){
         system.out.println("Java")
         }
 
 
-public static void main(String[]args){
+public static void MyCodingSkills(String[]args){
         system.out.println("HTML")
 
 
         }
 
-public static void main(String[]args){
+public static void MyCodingSkills(String[]args){
         System.out.println("C++")
         }
 
 
-public static void main(St(string[]args){
+public static void MyCodingSkills(St(string[]args){
         system.out.println("Css")
         }
 
 
-public static void main(String[]args){
+public static void MyCodingSkills(String[]args){
         system.out.println("Python")
         }
 
 
-public static void main(String[]args){
+public static void MyCodingSkills(String[]args){
         system.out.println("Ruby")
         }
